@@ -4,3 +4,4 @@ SQ2020, Seattle University
 Authors:
 Mark Chesney
 Peter Loyd
+Jara Lindsay
